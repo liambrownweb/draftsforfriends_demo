@@ -1,0 +1,150 @@
+# Copyright (C) 2018 Drafts for Friends
+# This file is distributed under the same license as the Drafts for Friends package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Drafts for Friends 2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/automattic\n"
+"POT-Creation-Date: 2018-05-23 05:34:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  automattic.pot (Drafts for Friends 2.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: drafts-for-friends.php:25 drafts-for-friends.php:144
+#: drafts-for-friends.php:288 drafts-for-friends.php:362
+msgid "Drafts for Friends"
+msgstr ""
+
+#: drafts-for-friends.php:33
+msgid "Auto-purge expired shares"
+msgstr ""
+
+#: drafts-for-friends.php:40
+msgid "Hours to keep expired shares"
+msgstr ""
+
+#: drafts-for-friends.php:78
+msgid "Every ten minutes"
+msgstr ""
+
+#: drafts-for-friends.php:105
+msgid "Fine-tune your settings for Drafts for Friends."
+msgstr ""
+
+#: drafts-for-friends.php:187
+msgid "There is no such post!"
+msgstr ""
+
+#: drafts-for-friends.php:190
+msgid "The post is published!"
+msgstr ""
+
+#: drafts-for-friends.php:242
+msgid "Your Drafts:"
+msgstr ""
+
+#: drafts-for-friends.php:247
+msgid "Your Scheduled Posts:"
+msgstr ""
+
+#: drafts-for-friends.php:252
+msgid "Pending Review:"
+msgstr ""
+
+#: drafts-for-friends.php:292
+msgid "Currently shared drafts"
+msgstr ""
+
+#: drafts-for-friends.php:296
+msgid "ID"
+msgstr ""
+
+#: drafts-for-friends.php:297
+msgid "Title"
+msgstr ""
+
+#: drafts-for-friends.php:298
+msgid "Link"
+msgstr ""
+
+#: drafts-for-friends.php:299
+msgid "Expires After"
+msgstr ""
+
+#: drafts-for-friends.php:300
+msgid "Actions"
+msgstr ""
+
+#: drafts-for-friends.php:322 drafts-for-friends.php:330
+msgid "Extend"
+msgstr ""
+
+#: drafts-for-friends.php:331
+msgid "by"
+msgstr ""
+
+#: drafts-for-friends.php:335
+msgid "Cancel"
+msgstr ""
+
+#: drafts-for-friends.php:340
+msgid "Delete"
+msgstr ""
+
+#: drafts-for-friends.php:346
+msgid "Copy link"
+msgstr ""
+
+#: drafts-for-friends.php:355
+msgid "No shared drafts!"
+msgstr ""
+
+#: drafts-for-friends.php:366
+msgid "Choose a draft"
+msgstr ""
+
+#: drafts-for-friends.php:390
+msgid "Share it"
+msgstr ""
+
+#: drafts-for-friends.php:391
+msgid "for"
+msgstr ""
+
+#: drafts-for-friends.php:438
+msgid "in"
+msgstr ""
+
+#: drafts-for-friends.php:473
+msgid "seconds"
+msgstr ""
+
+#: drafts-for-friends.php:474
+msgid "minutes"
+msgstr ""
+
+#: drafts-for-friends.php:475
+msgid "hours"
+msgstr ""
+
+#: drafts-for-friends.php:476
+msgid "days"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://automattic.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Now you don't need to add friends as users to the blog in order to let them "
+"preview your drafts"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Neville Longbottom"
+msgstr ""
